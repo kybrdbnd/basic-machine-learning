@@ -28,14 +28,14 @@ This repo is just for the introduction to Machine Learning. This repo consists o
     <li>Test Data Set</li>
   </ol>
 </p>
-<h1>Aim: To predict the pizza price </h1>
+<h1>Aim: To predict the pizza price</h1>
 <h2>Pre-requiste Knowledge</h2>
 <p>
   Price price follows a linear relationship with several parameters like diameter, quantity of cheese, veg or non veg, pizza toppings. Therefore Simple Linear Regression can be applied to estimate the price of the pizza.
   
   <b>Train Data Set: </b>sample_data.csv containing columns like cost, diameter, toppings etc 
 </p>
-<h2>How It works <h2>
+<h2>How It works </h2>
 <p>
   <ol>
     <li> CSV file is read using pandas</li>
